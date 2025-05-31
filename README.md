@@ -4,12 +4,12 @@
 
 
 ```bibtex
-@inproceedings{
-anonymous2025towards,
-title={Towards Comprehensive Argument Analysis in Education: Dataset, Tasks, and Method},
-author={Anonymous},
-booktitle={The 63rd Annual Meeting of the Association for Computational Linguistics},
-year={2025},
-url={https://openreview.net/forum?id=i6wdoFNSR5}
+  @inproceedings{
+  ren2025towards,
+  title={Towards Comprehensive Argument Analysis in Education: Dataset, Tasks, and Method},
+  author={Yupei Ren, Xinyi Zhou, Ning Zhang, Shangqing Zhao, Man Lan, Xiaopeng Bai},
+  booktitle={The 63rd Annual Meeting of the Association for Computational Linguistics},
+  year={2025},
+  url={https://openreview.net/forum?id=i6wdoFNSR5}
 }
 ```
